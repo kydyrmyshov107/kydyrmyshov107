@@ -14,6 +14,10 @@
    <img src="https://skillicons.dev/icons?i=scss,styledcomponents,redux,vercel" />
 </div>
 
+<div>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,nextjs,react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,vite"/>
+</div>
+
 <div align="center">
   <a href="https://github.com/TEMURBEKTUMANBAEV">
   <img src="https://github.com/bimashazaman/Github-snake-SVG/raw/master/snake.svg"
