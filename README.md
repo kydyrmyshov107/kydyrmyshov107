@@ -1,8 +1,11 @@
 
 
-<a href="https://github.com/Elkhan2003">
+<div align="center">
+  <a href="https://github.com/Elkhan2003">
   <img height="90" src="https://readme-typing-svg.herokuapp.com?color=D7D9D2&lines=Just+Frontend+Developer"/>
 </a>
+</div>
+
 
 
 <div align="center">
