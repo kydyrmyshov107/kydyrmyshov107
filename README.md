@@ -1,5 +1,5 @@
 <a href="https://github.com/Elkhan2003">
-  <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Just+Frontend+Developer"/>
+  <img height="70" src="https://readme-typing-svg.herokuapp.com?color=0D1321&lines=Just+Frontend+Developer"/>
 </a>
 ###
 
