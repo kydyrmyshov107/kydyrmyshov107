@@ -1,7 +1,9 @@
 
 <div align="center"> 
   
-  <img height="100" src="https://readme-typing-svg.herokuapp.com?color=#6496c4&lines=Frontend+Developer"/>
+
+  <img height="100" src="https://readme-typing-svg.herokuapp.com?color=green&lines=Frontend+Developer"/>
+
 </a>
 </div>
 
