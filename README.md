@@ -1,7 +1,7 @@
 
 <div align="center"> 
-  <a href="https://github.com/Elkhan2003">
-  <img height="100" src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Just+Frontend+Developer"/>
+  
+  <img height="100" src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Frontend+Developer"/>
 </a>
 </div>
 
