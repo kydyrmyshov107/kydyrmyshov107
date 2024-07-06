@@ -1,7 +1,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=sammorozov&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<div align="center"> 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div align="center"> 
+ 
   <img height="100" src="https://readme-typing-svg.herokuapp.com?color=red&lines=Frontend+Developer"/>
 
 </a>
