@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=kydyrmyshov107&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=kydyrmyshov107&theme=a855f7&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 ---
