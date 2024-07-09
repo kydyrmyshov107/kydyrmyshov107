@@ -7,6 +7,17 @@
 |----------|----------|----------|-----|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react"  alt="react" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript"  alt="typescript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Solidity" alt="Solidity" width="55" height="55"/>| 
 
+
+<br>
+ <div align='center'>
+  
+  ### MY GRAPH
+  
+  [![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kydyrmyshov107&theme=transparent)]() 
+</div>
+<br>
+
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats :</b>
 <br> 
 <div style="display: flex;">
@@ -19,9 +30,4 @@
     </a>
 </div>
 
- <div align='center'>
-  
-  ### MY GRAPH
-  
-  [![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kydyrmyshov107&theme=transparent)]() 
-</div>
+
