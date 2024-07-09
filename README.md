@@ -14,7 +14,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats :</b>
 <br> 
-<div style="display: flex,alignItems:center,juctifyContent:center;">
+<div style="display: flex;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kydyrmyshov107&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Anurag's GitHub stats">
 </a>
