@@ -13,17 +13,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kydyrmyshov107&column=3&margin-w=15&margin-h=15" alt="Defiant7426" /></a> </p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api?username=kydyrmyshov107&show_icons=true" />
-</a>
 
-<p align = 'center'> 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kydyrmyshov107&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-</p>
 
 ## Github stats :
 <div style="display: flex;">
