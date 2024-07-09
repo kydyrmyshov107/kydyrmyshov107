@@ -11,8 +11,6 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kydyrmyshov107&column=3&margin-w=15&margin-h=15" alt="Defiant7426" /></a> </p>
-
 
 
 ## Github stats :
